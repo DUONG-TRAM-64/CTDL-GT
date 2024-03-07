@@ -1,0 +1,114 @@
+        body {
+            font-size: 15px;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        #grad1 {
+            height: 200px;
+            background: linear-gradient(150deg, rgba(249, 139, 39, 1) 0%, rgba(184, 79, 19, 1) 55%, rgba(171, 19, 0, 1) 100%);
+            position: relative;
+            border-radius:5px ;
+        }
+
+        .thanh__nav {
+            top: 0;
+            right: 0;
+        }
+        .thanh__nav a {
+            display: inline-block;
+        }
+        #thanh__nav_b {
+            border: 1px solid;
+            padding: 5px;
+            margin: 3px;
+            border-radius: 10px;
+            background-color: burlywood;
+            text-decoration-line: none;
+            color: rgb(249, 78, 48);
+        }
+
+        #thanh__nav_b:hover {
+            font-weight: bolder;
+            font-size: larger;
+            box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),
+             0 15px 20px 0 rgba(0, 0, 0, 0.19);
+            background-color: rgb(214, 175, 115);
+        }
+
+        .thanh__nav a {
+            display: inline-block;
+        }
+
+        #nav1 {
+            height: 100px;
+            width: auto;
+            margin-left: auto;
+            margin-right: auto;
+            display: block;
+        }
+
+        h1 {
+            margin-top: 0;
+            margin-left: 10px;
+        }
+        img {
+            position: absolute;
+            top: 0;
+            right: 0;
+            float : right;
+         border-radius: 50%;
+}
+fieldset {
+    float: left;
+    margin-top: 10px;
+    width: 25%;
+    height: 300px; /* only for demonstration, should be removed */
+    background: #ccc;
+    padding: 10px 20px;
+  }
+  legend{
+    color: blueviolet;
+    font-weight: bolder;
+    font-size: 1.5rem;
+  }
+.result {
+    float: right;
+    margin-top: 24px;
+    padding: 20px;
+    width: 64%;
+    height: 270px; 
+  
+   
+  }
+  #trem{
+    border-left: 10px solid green;
+    padding-left: 10px;
+    padding-bottom: 3px;
+    background-color: greenyellow;
+    color: rgb(15, 8, 8);
+  }
+  ul li{
+    color: rgb(255, 8, 127);
+    font-weight: bolder;
+  }
+
+
+  footer {
+    background-color: #bf4646;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer-content {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+trem.innert{
+    
+}
+
+
